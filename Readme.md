@@ -13,15 +13,15 @@ For detailed mathematical foundations and COVID‑19 case studies, see the proje
 ---
 
 ## 🗂 Repository Structure
-.
-├── data_simulation.py # Simulate true/masked case data
-├── transforms.py # 2D DCT / IDCT transforms
-├── recovery.py # Compressive sensing recovery (LASSO)
-├── network_simulation.py # Simple network‑diffusion model
-├── matrix_completion.py # SoftImpute matrix completion
-├── evaluation.py # RMSE & visualization utilities
-├── main.py # End‑to‑end pipeline
-└── requirements.txt # Python dependencies
+.  
+├── data_simulation.py # Simulate true/masked case data  
+├── transforms.py # 2D DCT / IDCT transforms  
+├── recovery.py # Compressive sensing recovery (LASSO)  
+├── network_simulation.py # Simple network‑diffusion model  
+├── matrix_completion.py # SoftImpute matrix completion  
+├── evaluation.py # RMSE & visualization utilities  
+├── main.py # End‑to‑end pipeline   
+└── requirements.txt # Python dependencies  
 
 
 ---
@@ -56,7 +56,7 @@ For detailed mathematical foundations and COVID‑19 case studies, see the proje
    git clone https://github.com/your-username/disease-cs.git
    cd disease-cs
 
-2.  **Install Dependecies**  
+2. **Install Dependecies**  
    ```bash
     pip install -r requirements.txt
 
