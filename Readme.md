@@ -57,10 +57,10 @@ For detailed mathematical foundations and COVID‑19 case studies, see the proje
    cd disease-cs
 
 2.  **Install Dependecies**  
-   ```python
+   ```bash
     pip install -r requirements.txt
 
 3. **Run the Pipeline**  
-   ```python
+   ```bash
    python main.py
    
